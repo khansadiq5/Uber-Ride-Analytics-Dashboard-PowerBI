@@ -107,7 +107,7 @@ The dataset includes:
  <img src="https://github.com/khansadiq5/Uber-Ride-Analytics-Dashboard-PowerBI/blob/main/Revenue.png"/>
 
 - Rider Page
- <img src="https://github.com/khansadiq5/Uber-Ride-Analytics-Dashboard-PowerBI/blob/main/Revenue.png"/>
+ <img src="https://github.com/khansadiq5/Uber-Ride-Analytics-Dashboard-PowerBI/blob/main/Rider.png"/>
 
 ## 🛠️ Tools & Technologies Used
 
