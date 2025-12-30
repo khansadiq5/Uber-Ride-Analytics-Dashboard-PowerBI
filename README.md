@@ -1,10 +1,10 @@
-#🚕 Uber Ride Analytics Dashboard (Power BI)
-##🏁 Project Objective
+# 🚕 Uber Ride Analytics Dashboard (Power BI)
+## 🏁 Project Objective
 
 The objective of this project is to analyze and visualize Uber ride operations and business performance using Power BI.
 This dashboard helps stakeholders understand booking trends, revenue performance, ride completion status, customer behavior, and vehicle-wise insights for better data-driven decision-making.
 
-##📌 Problem Statement
+## 📌 Problem Statement
 
 - Ride-hailing platforms like Uber generate massive amounts of data daily. Without a centralized analytics system, it becomes difficult to:
  - Track completed, cancelled, and incomplete rides.
@@ -14,13 +14,13 @@ This dashboard helps stakeholders understand booking trends, revenue performance
  - Compare performance of Auto, Bike, Sedan, XL, etc.
 - This Power BI dashboard solves these challenges by providing a single interactive view of all key operational and financial metrics.
 
-##📊 Dataset
+## 📊 Dataset
 
 The dataset includes:
  -  <a href = "https://github.com/khansadiq5/Uber-Ride-Analytics-Dashboard-PowerBI/blob/main/uber.xlsx"> Uber Ride Dataset</a>
 
 
-##🚀 Key KPIs
+## 🚀 Key KPIs
 
 - Total Bookings – Overall ride demand.
 
@@ -38,7 +38,8 @@ The dataset includes:
 
 - Driver Rating.
 
-##📈 Dashboard Pages & Insights
+## 📈 Dashboard Pages & Insights
+
  ->1️⃣ Home Page
 
    - Project introduction with Uber branding.
@@ -91,7 +92,7 @@ The dataset includes:
 
    - Cancellation reasons analysis.
 
-##📊 Dashboard Preview
+## 📊 Dashboard Preview
 
 - Home Page
  <img src="https://github.com/khansadiq5/Uber-Ride-Analytics-Dashboard-PowerBI/blob/main/Home.png"/>
@@ -108,7 +109,7 @@ The dataset includes:
 - Rider Page
  <img src="https://github.com/khansadiq5/Uber-Ride-Analytics-Dashboard-PowerBI/blob/main/Revenue.png"/>
 
-##🛠️ Tools & Technologies Used
+## 🛠️ Tools & Technologies Used
 
 - Power BI – Interactive dashboard & visualization.
 
@@ -118,7 +119,7 @@ The dataset includes:
 
 - Excel / CSV – Dataset handling.
 
-##🎯 Key Learnings
+## 🎯 Key Learnings
 
 - Real-world business KPI analysis.
 
@@ -130,6 +131,6 @@ The dataset includes:
 
 - Storytelling through data.
 
-##📌 Project Type
+## 📌 Project Type
 
 - Data Analytics | Business Intelligence | Power BI Dashboard
